@@ -1,6 +1,6 @@
 # HeroMe
 
-<style = "text/css">
+<style>
   #images
   {
     float: left;
